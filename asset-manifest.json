@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/scholarship-frontend/static/css/main.63f42aa4.chunk.css",
+    "main.js": "/scholarship-frontend/static/js/main.7bef4a86.chunk.js",
+    "main.js.map": "/scholarship-frontend/static/js/main.7bef4a86.chunk.js.map",
+    "runtime-main.js": "/scholarship-frontend/static/js/runtime-main.4aaa3523.js",
+    "runtime-main.js.map": "/scholarship-frontend/static/js/runtime-main.4aaa3523.js.map",
+    "static/js/2.8e1bc17c.chunk.js": "/scholarship-frontend/static/js/2.8e1bc17c.chunk.js",
+    "static/js/2.8e1bc17c.chunk.js.map": "/scholarship-frontend/static/js/2.8e1bc17c.chunk.js.map",
+    "static/js/3.46313b36.chunk.js": "/scholarship-frontend/static/js/3.46313b36.chunk.js",
+    "static/js/3.46313b36.chunk.js.map": "/scholarship-frontend/static/js/3.46313b36.chunk.js.map",
+    "index.html": "/scholarship-frontend/index.html",
+    "static/css/main.63f42aa4.chunk.css.map": "/scholarship-frontend/static/css/main.63f42aa4.chunk.css.map",
+    "static/js/2.8e1bc17c.chunk.js.LICENSE.txt": "/scholarship-frontend/static/js/2.8e1bc17c.chunk.js.LICENSE.txt",
+    "static/media/mirea.a38b54d2.jpg": "/scholarship-frontend/static/media/mirea.a38b54d2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4aaa3523.js",
+    "static/js/2.8e1bc17c.chunk.js",
+    "static/css/main.63f42aa4.chunk.css",
+    "static/js/main.7bef4a86.chunk.js"
+  ]
+}
